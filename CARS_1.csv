@@ -1,0 +1,204 @@
+car_name,fuel_type,engine_displacement,no_cylinder,seating_capacity,transmission_type,fuel_tank_capacity,body_type,rating,avg_price,max_torque_nm,max_torque_rpm,max_power_bhp,max_power_rp
+Maruti Alto K10,Petrol,998,3,5,Automatic,27,Hatchback,4.5,491000,89,3500,65.71,5500
+Maruti Brezza,Petrol,1462,4,5,Automatic,48,SUV,4.5,1097500,136.8,4400,101.65,6000
+Mahindra Thar,Diesel,2184,4,4,Automatic,57,SUV,4.5,1478000,300,2800,130,3750
+Mahindra XUV700,Diesel,2198,4,7,Automatic,60,SUV,4.5,1888000,450,2800,182.38,3500
+Mahindra Scorpio-N,Diesel,2198,4,7,Automatic,57,SUV,4.5,1794500,400,2750,172.45,3500
+Toyota Fortuner,Diesel,2755,4,7,Automatic,80,SUV,4.5,4098500,500,2800,201.15,3400
+Hyundai Creta,Diesel,1493,4,5,Automatic,50,SUV,4.5,1431000,250,2750,113.45,4000
+Tata Punch,Petrol,1199,3,5,Automatic,37,SUV,4.5,771000,113,3400,84.48,6000
+Mahindra Bolero,Diesel,1498,3,7,Manual,60,SUV,4.5,979500,210,2200,74.96,3600
+Maruti Swift,Petrol,1197,4,5,Automatic,37,Hatchback,4,738500,113,4400,88.5,6000
+Tata Nexon,Diesel,1497,4,5,Automatic,44,SUV,4.5,1084000,260,2750,108.49,4000
+Hyundai Venue,Petrol,998,3,5,Automatic,45,SUV,4.5,1012500,172,4000,118.41,6000
+Kia Seltos,Diesel,1493,4,5,Automatic,50,SUV,4.5,1457000,250,2750,113.43,4000
+Hyundai Tucson,Diesel,1997,4,5,Automatic,54,SUV,4.5,3112000,416,2750,183.72,4000
+Tata Harrier,Diesel,1956,4,5,Automatic,50,SUV,4.5,1845000,350,2500,167.67,3750
+Maruti Baleno,Petrol,1197,4,5,Automatic,37,Hatchback,4.5,810000,113,4400,88.5,6000
+Toyota Innova Crysta,Diesel,2393,4,8,Automatic,55,MUV,4.5,2220000,360,2600,148,3400
+Maruti Ertiga,Petrol,1462,4,7,Automatic,45,MUV,4.5,1057000,136.8,4400,101.65,6000
+Kia Sonet,Diesel,1493,4,5,Automatic,45,SUV,4,1064000,250,2750,113.43,4000
+Maruti Dzire,Petrol,1197,4,5,Automatic,37,Sedan,4.5,771000,113,4400,88.5,6000
+Honda City 4th Generation,Petrol,1497,4,5,Manual,40,Sedan,4.5,975000,145,4600,117.6,6600
+Land Rover Range Rover,Petrol,4367,8,7,Automatic,90,SUV,4.5,32800000,700,3000,345.98,4000
+Tata Tiago,CNG,1199,3,5,Manual,60,Hatchback,4.5,661000,95,3500,72,6000
+Hyundai i20,Petrol,998,3,5,Automatic,37,Hatchback,3.5,928500,171.62,4000,118.36,6000
+Mahindra XUV300,Diesel,1497,4,5,Automatic,42,SUV,4.5,1124000,300,2500,115,3750
+MG Hector,Diesel,1956,4,5,Manual,60,SUV,4,1713000,350,2500,167.68,3750
+Tata Altroz,Diesel,1497,4,5,Manual,37,Hatchback,4.5,827500,200,3000,88.77,4000
+Mahindra Scorpio Classic,Diesel,2184,4,7,Manual,60,SUV,4.5,1374000,300,2800,130.07,3750
+Hyundai Verna,Diesel,1493,4,5,Automatic,45,Sedan,4.5,1243000,250,2750,113.45,4000
+Citroen C3,Petrol,1199,3,5,Manual,30,Hatchback,4.5,688500,190,1750,108.62,5500
+Honda City,Diesel,1498,4,5,Manual,40,Sedan,4.5,1354500,200,1750,97.89,3600
+Maruti Celerio,Petrol,998,3,5,Automatic,32,Hatchback,3.5,612500,89,3500,65.71,5500
+Nissan Magnite,Petrol,999,3,5,Automatic,40,SUV,4.5,838000,152,4400,98.63,5000
+Renault KWID,Petrol,999,3,5,Automatic,28,Hatchback,4.5,531500,91,4250,67.06,5500
+Land Rover Defender,Petrol,4997,4,7,Automatic,89,SUV,4.5,14986000,650,2500,296.36,4000
+Maruti Alto 800,CNG,796,3,5,Manual,60,Hatchback,4.5,421000,60,3500,40.36,6000
+Hyundai Kona Electric,Electric,0,0,5,Electric,0,SUV,4.5,2393500,395,0,134.1,0
+Tata Tigor,CNG,1199,3,5,Manual,60,Sedan,4.5,729500,95,3500,72.4,6000
+Renault Kiger,Petrol,999,3,5,Automatic,40,SUV,4.5,830500,152,4400,98.63,5000
+Maruti S-Presso,Petrol,998,3,5,Automatic,27,Hatchback,4.5,512000,89,3500,65.71,5500
+MG Astor,Petrol,1349,3,5,Automatic,45,SUV,4.5,1417500,220,3600,138.08,5600
+Lamborghini Urus,Petrol,3996,8,5,Automatic,75,SUV,4.5,32900000,850,4500,641,6000
+Honda Amaze,Diesel,1498,4,5,Automatic,35,Sedan,4.5,906500,160,1750,79.12,3600
+Renault Triber,Petrol,999,3,7,Automatic,40,MUV,4.5,721500,96,3500,71,6250
+Hyundai Alcazar,Diesel,1493,4,7,Automatic,50,SUV,4,1807000,250,2750,113.42,4000
+Hyundai Aura,Petrol,998,3,5,Manual,37,Sedan,4.5,748000,172,4000,98.63,6000
+Volkswagen Virtus,Petrol,1498,4,5,Automatic,45,Sedan,4.5,1457000,250,3500,147.51,6000
+Skoda Slavia,Petrol,1498,4,5,Automatic,45,Sedan,4.5,1469000,250,3500,147.52,6000
+Maruti Ignis,Petrol,1197,4,5,Automatic,32,Hatchback,4.5,653500,113,4200,81.8,6000
+Mercedes-Benz GLA,Diesel,1950,4,5,Automatic,0,SUV,4.5,4690000,400,2600,187.74,3800
+Volvo XC90,Petrol,1969,4,7,Automatic,68,Hybrid,4.5,9527500,640,1740,400,0
+Skoda Kushaq,Petrol,1498,4,5,Automatic,50,SUV,4.5,1539000,250,3500,147.51,6000
+Maruti XL6,Petrol,1462,4,6,Automatic,45,MUV,4.5,1292000,136.8,4400,101.65,6000
+Jeep Wrangler,Petrol,1998,4,5,Automatic,0,SUV,4.5,5835000,400,3000,268,5250
+Maruti Eeco,Petrol,1196,4,7,Manual,65,Minivan,4.5,528500,85,3000,61.68,6000
+Force Gurkha,Diesel,2596,4,4,Manual,63,SUV,4.5,1449000,250,2400,89.84,3200
+Maruti S-Cross,Petrol,1462,4,5,Automatic,48,SUV,4.5,1093500,138,4400,103.25,6000
+Maruti Ciaz,Petrol,1462,4,5,Automatic,43,Sedan,4.5,1048500,138,4400,103.25,6000
+Hyundai Santro,CNG,1086,4,5,Manual,60,Hatchback,4.5,566000,85.3,4501,59.17,5500
+Volkswagen Taigun,Petrol,1498,4,5,Automatic,50,SUV,4.5,1500000,250,3500,147.51,6000
+BMW X7,Diesel,2993,6,7,Automatic,80,SUV,4.5,14800000,760,3000,394.26,4400
+Audi Q7,Petrol,2995,6,7,Automatic,0,SUV,4.5,8528500,500,4500,335.25,6400
+Toyota Vellfire,Petrol,2494,4,7,Automatic,58,MUV,4.5,9260000,198,4000,115.32,4700
+Toyota Hilux,Diesel,2755,4,5,Automatic,80,Pickup Truck,4.5,3539500,500,2800,201.15,3400
+MG Gloster,Diesel,1996,4,7,Automatic,75,SUV,4.5,3550000,480,2400,215.01,4000
+Lamborghini Aventador,Petrol,6498,12,2,Automatic,90,Coupe,4.5,76250000,720,6750,759.01,8500
+BMW X1,Diesel,1995,4,5,Automatic,51,SUV,4.5,4300000,400,2500,187.74,6000
+BMW X5,Petrol,2998,6,5,Automatic,0,SUV,4.5,8790000,450,5200,335.26,6500
+Toyota Camry,Petrol,2498,4,5,Automatic,0,Sedan,4.5,4435000,221,5200,175.67,5700
+Volkswagen Tiguan,Petrol,1984,4,5,Automatic,60,SUV,4.5,3279500,320,4100,187.74,6000
+Rolls-Royce Ghost,Petrol,6750,12,5,Automatic,0,Sedan,4.5,74500000,820,1500,563,5250
+Skoda Octavia,Petrol,1984,4,5,Automatic,50,Sedan,4.5,2835000,320,3990,187.74,6000
+Skoda Superb,Petrol,1984,4,5,Automatic,66,Sedan,4.5,3504000,320,4200,187.74,6000
+Audi A6,Petrol,1984,4,5,Automatic,73,Sedan,4.5,6299000,370,4500,241.3,6500
+Volvo XC40,Petrol,1969,4,5,Automatic,54,SUV,4.5,4450000,300,0,187.4,0
+Kia EV6,Electric,0,0,5,Electric,0,SUV,4.5,6245000,605,0,320.55,0
+Volvo S90,Petrol,1969,4,5,Automatic,60,Sedan,4.5,6590000,350,0,246.58,0
+Honda Jazz,Petrol,1199,4,5,Automatic,40,Hatchback,4.5,916500,110,4800,88.5,6000
+Land Rover Range Rover Velar,Petrol,1997,4,5,Automatic,82,SUV,4.5,8941000,365,4000,246.74,5500
+Honda WR-V,Diesel,1498,4,5,Manual,40,SUV,4.5,1071000,200,1750,97.89,3600
+Volvo XC60,Petrol,1998,5,5,Automatic,70,SUV,4.5,6590000,440,3000,246.74,4000
+Skoda Kodiaq,Petrol,1984,4,7,Automatic,58,SUV,4.5,3874000,320,4100,187.74,6000
+Audi A4,Petrol,1998,4,5,Automatic,54,Sedan,4.5,4654500,320,4200,187.74,6000
+BMW X3,Petrol,1998,4,5,Automatic,0,SUV,4.5,6490000,350,4800,248.08,5200
+BMW Z4,Petrol,2998,6,2,Automatic,52,Convertible,4.5,7840000,500,4500,335,6500
+BMW 3 Series Gran Limousine,Petrol,1998,4,5,Automatic,59,Sedan,4.5,5790000,400,4400,254.79,5000
+Nissan Kicks,Petrol,1330,4,5,Automatic,50,SUV,4.5,1220000,254,1600,153.87,5500
+Mahindra Marazzo,Diesel,1497,4,8,Manual,45,MUV,4.5,1430500,300,2500,120.96,3500
+Mercedes-Benz C-Class,Diesel,1993,4,5,Automatic,0,Sedan,4.5,5800000,550,2200,261.49,4200
+BMW X6,Petrol,2998,6,5,Automatic,83,Luxury,4.5,10400000,450,5200,335.25,6500
+Mahindra Alturas G4,Diesel,2157,4,7,Automatic,70,SUV,4.5,3188000,420,2600,178.49,3800
+Bajaj Qute (RE60),CNG,216,1,4,Manual,35,Hatchback,4,361000,16.1,4000,10.8,5500
+Volkswagen Vento,Petrol,999,3,5,Automatic,55,Sedan,4.5,1222000,175,4000,108.62,5500
+Audi Q5,Petrol,1984,4,5,Manual,0,SUV,4.5,6272500,370,4300,245.59,6000
+Ferrari Roma,Petrol,3855,8,2,Automatic,80,Coupe,4.5,37600000,760,5750,611.5,7500
+MG ZS EV,Electric,0,0,5,Electric,0,SUV,4.5,2394000,280,0,173.83,0
+BMW 7 Series,Petrol,2998,6,4,Automatic,46,Sedan,4.5,15900000,450,5000,281.6,6000
+Mercedes-Benz E-Class,Diesel,2925,6,5,Automatic,0,Sedan,4.5,7600000,600,3200,281.61,4600
+BMW i4,Electric,0,0,5,Electric,0,Sedan,4.5,6990000,430,0,335.25,0
+Land Rover Range Rover Sport,Diesel,2997,6,5,Automatic,0,SUV,4.5,17400000,700,3000,345.98,4000
+Jaguar F-TYPE,Petrol,5000,8,2,Automatic,70,Coupe,4.5,12556500,580,500,443.8,6000
+Datsun redi-GO,Petrol,999,3,5,Automatic,28,Hatchback,3.5,447000,91,4250,67.05,5550
+BMW 2 Series,Diesel,1995,4,5,Automatic,51,Sedan,4.5,4300000,400,2500,187.74,4000
+Isuzu D-Max,Diesel,1898,4,5,Automatic,0,SUV,4.5,2000000,360,2500,160.92,3600
+BMW 5 Series,Diesel,2993,6,5,Automatic,0,Sedan,4.5,6950000,620,2500,261.49,4000
+Audi Q2,Petrol,1984,4,5,Automatic,55,SUV,4.5,4194000,320,4180,187.74,6000
+Mercedes-Benz GLS,Petrol,3982,8,7,Automatic,90,SUV,4.5,18150000,730,4500,549.81,6500
+Porsche Cayenne,Petrol,3996,8,5,Automatic,90,SUV,4.5,16000000,770,4500,550,6000
+Citroen C5 Aircross,Diesel,1997,4,5,Automatic,52.5,SUV,4,3301000,400,2000,174.33,3750
+Datsun GO,Petrol,1198,3,5,Automatic,35,Hatchback,4.5,527000,104,4400,76.43,6000
+Volvo S60,Petrol,1969,4,5,Automatic,0,Sedan,4.5,4590000,300,0,190,0
+Porsche Macan,Petrol,2894,6,5,Automatic,65,SUV,4.5,11510500,550,5600,434.49,6600
+Jaguar XE,Petrol,1997,4,5,Automatic,61.7,Sedan,4.5,4757000,365,4000,246.74,5500
+BYD E6,Electric,0,0,5,Electric,0,MUV,4.5,2915000,180,0,93.87,0
+Jaguar F-Pace,Petrol,4999,8,5,Automatic,82,SUV,4.5,11544000,700,5000,543.11,6500
+Tata Tiago NRG,Petrol,1199,3,5,Automatic,35,Hatchback,4.5,690000,113,3300,84.48,6000
+Mahindra KUV 100 NXT,Petrol,1198,3,6,Manual,35,Hatchback,4.5,701000,115,3600,82,5500
+Mini Cooper SE,Electric,0,0,4,Automatic,0,Hatchback,4.5,5090000,270,1000,181.03,0
+Audi e-tron,Electric,0,0,5,Electric,0,Coupe,4.5,11000000,664,0,300,0
+Datsun GO Plus,Petrol,1198,3,7,Automatic,35,MUV,4.5,563000,104,4400,76.43,6000
+Mercedes-Benz AMG G 63,Petrol,3982,8,5,Automatic,0,SUV,4.5,25500000,850,3500,576.63,6000
+Mercedes-Benz AMG GT,Petrol,3982,8,2,Automatic,75,Coupe,4.5,27100000,700,5500,576.63,6250
+Lexus ES,Petrol,2487,4,5,Automatic,65,Sedan,4.5,6255000,202,5200,214.56,5700
+Porsche Taycan,Electric,0,0,5,Electric,0,Wagon,4.5,19350000,650,0,482.76,0
+Lexus LS,Petrol,3456,6,4,Automatic,82,Sedan,4.5,20650000,350,5100,354,6600
+Rolls-Royce Cullinan,Petrol,6750,12,5,Automatic,0,SUV,4.5,69500000,850,1600,563,5000
+Isuzu MU-X,Diesel,1898,4,7,Automatic,55,SUV,4.5,3645000,360,2500,160.92,3600
+BMW iX,Electric,0,0,5,Electric,0,SUV,4.5,11600000,630,0,321.84,0
+Bentley Flying Spur,Petrol,5950,12,4,Automatic,90,Sedan,4.5,33150000,900,4500,626,6000
+Mercedes-Benz S-Class,Petrol,2999,6,5,Automatic,0,Sedan,4.5,16450000,500,4500,362.07,6100
+Maserati Quattroporte,Petrol,3799,8,5,Automatic,80,Sedan,4.5,19150000,650,4000,530,6800
+Jaguar XF,Diesel,1997,4,5,Automatic,0,Sedan,4.5,7380000,430,2500,201.15,4250
+Mercedes-Benz GLC,Diesel,1950,4,5,Automatic,66,SUV,4.5,6500000,400,2800,194,3800
+Ferrari Portofino,Petrol,3855,8,4,Automatic,81,Convertible,4.5,35000000,760,5250,591.79,7500
+Mercedes-Benz Maybach S-Class,Petrol,5980,12,4,Automatic,0,Sedan,4.5,28500000,900,4000,603.46,5500
+Maserati Levante,Petrol,2979,6,5,Automatic,80,SUV,3.5,15650000,580,5750,350,5750
+Tata Yodha Pickup,Diesel,2956,4,4,Manual,45,Pickup Truck,4.5,722500,250,2000,85,3000
+Aston Martin DBX,Diesel,3982,8,5,Automatic,85,SUV,4.5,38200000,700,5000,542,6500
+Bentley Continental,Petrol,5998,12,4,Automatic,90,Convertible,4.5,36000000,700,1600,562,6000
+Mercedes-Benz EQS,Electric,0,0,5,Electric,0,Sedan,5,25400000,1020,0,750.97,0
+Ferrari 812,Petrol,6496,8,2,Automatic,92,Convertible,4.5,57500000,718,7000,788.52,8500
+Audi RS7,Petrol,3996,6,4,Automatic,73,Luxury,4.5,22400000,800,4500,591,6250
+Mercedes-Benz AMG GLE 63 S,Petrol,3982,8,5,Automatic,0,SUV,4.5,21500000,850,5000,603.46,6500
+Mclaren GT,Petrol,3994,8,5,Automatic,72,Coupe,4.5,45000000,630,0,611.51,0
+Mercedes-Benz G-Class,Diesel,2925,6,5,Automatic,100,SUV,4.5,17200000,600,3200,281.61,4600
+Nissan GT-R,Petrol,3798,6,4,Automatic,74,Coupe,4.5,21200000,637,5800,562.2,6800
+BMW M2,Petrol,2979,6,4,Automatic,52,Coupe,4.5,8500000,550,5230,410,6250
+Mahindra E Verito,Electric,0,0,5,Electric,0,Sedan,4,929500,91,3000,41.57,3500
+Rolls Royce Wraith,Petrol,6592,12,4,Automatic,83,Coupe,4.5,67150000,900,4500,591,5500
+Mercedes-Benz V-Class,Diesel,2143,4,7,Automatic,57,MUV,4.5,10855000,380,2400,161,3800
+Porsche 911,Petrol,2981,6,4,Automatic,64,Coupe,4.5,24350000,450,5000,641,6500
+Porsche Panamera,Petrol,2894,8,5,Automatic,0,Wagon,4.5,21450000,770,4500,680,6000
+Mini Cooper Convertible,Petrol,1998,4,4,Automatic,44,Convertible,4.5,5150000,280,1250,189.08,6000
+Maserati Ghibli,Petrol,3799,8,5,Automatic,80,Sedan,3,15400000,450,1500,330,1500
+Lexus NX,Petrol,2487,4,5,Automatic,55,SUV,4,6825000,239,4500,187.74,6000
+Land Rover Discovery Sport,Petrol,1997,4,7,Automatic,70,SUV,4.5,6834500,365,4500,245.4,5500
+Bentley Bentayga,Petrol,3956,8,4,Automatic,85,SUV,4,41000000,770,4500,542,6000
+Ferrari SF90 Stradale,Petrol,3990,8,2,Automatic,68,Coupe,4.5,450000,800,6000,769.31,7500
+Strom Motors R3,Electric,0,0,2,Electric,0,Hatchback,3.5,21800000,90,0,20.11,0
+Lexus LC 500h,Petrol,3456,6,4,Automatic,82,Coupe,4.5,23800000,350,5100,295.02,6600
+Maserati GranTurismo,Petrol,4691,8,4,Automatic,86,Coupe,5,40200000,520,4750,460,7000
+Ferrari F8 Tributo,Petrol,3902,8,2,Automatic,78,Coupe,3.5,10540000,770,3250,710.74,8000
+Mercedes-Benz GLE,Diesel,2925,6,5,Automatic,93,SUV,4.5,14400000,700,4000,325.8,4200
+BMW M4 Competition,Petrol,2993,6,5,Automatic,0,Coupe,4.5,19250000,650,5500,502.88,6250
+BMW 8 Series,Petrol,4395,8,4,Automatic,68,Coupe,4.5,4400000,750,5600,600,6000
+Mini Cooper Countryman,Petrol,1998,4,5,Automatic,51,SUV,4.5,4300000,280,1350,189.08,6000
+Mercedes-Benz A-Class Limousine,Diesel,1950,4,5,Automatic,66,Sedan,4.5,19550000,320,3500,147.51,4000
+Maserati GranCabrio,Diesel,4691,8,4,Automatic,75,Convertible,4,15900000,520,0,460,0
+Mercedes-Benz AMG GLE 53,Petrol,2999,6,5,Automatic,85,Coupe,4.5,32500000,520,5800,435,6100
+Aston Martin Vantage,Petrol,3998,8,2,Manual,73,Convertible,3.5,9950000,675,5000,502.88,6000
+Mercedes-Benz EQC,Electric,0,0,5,Automatic,0,SUV,4.5,8247000,760,0,402.3,0
+Mercedes-Benz AMG C 43,Petrol,2996,6,5,Automatic,0,Coupe,4.5,11100000,520,5000,384.87,6100
+Lexus RX,Petrol,3456,6,5,Automatic,65,SUV,5,726000,335,4600,258.81,6000
+Hyundai Xcent Prime,CNG,1197,4,5,Manual,65,Sedan,4.5,12200000,97.96,4200,65.39,5600
+Jaguar I-Pace,Electric,0,0,5,Electric,0,SUV,4.5,73500000,696,0,394.26,0
+Rolls Royce Dawn,Petrol,6598,12,4,Automatic,0,Convertible,4,20800000,820,5000,563,6000
+BMW X5 M,Petrol,4395,8,5,Automatic,83,SUV,5,41000000,750,5600,616.87,6000
+Lamborghini Huracan EVO,Petrol,5204,10,2,Automatic,80,Coupe,4.5,4000000,565,6500,630.28,8000
+Mini Cooper 3 DOOR,Petrol,1998,4,4,Automatic,44,Hatchback,4.5,8470000,280,1250,189.08,6000
+Mercedes-Benz CLS,Diesel,1950,4,5,Automatic,66,Coupe,4.5,898500,500,2400,241.3,4200
+Mahindra Bolero PikUp ExtraLong,Diesel,2523,4,2,Manual,60,Pickup Truck,4.5,23300000,200,2200,75.09,3200
+Lexus LX,Petrol,5663,8,8,Automatic,93,SUV,5,8700000,530,3200,362,5600
+Mercedes-Benz AMG GLC 43,Petrol,2996,6,5,Automatic,0,SUV,4.5,951500,520,5000,384.87,6100
+Mahindra Bolero Camper,Diesel,2523,4,5,Manual,57,Pickup Truck,4.5,3274000,200,2200,75.09,3200
+Tata Nexon EV Max,Electric,0,0,5,Electric,0,SUV,5,523000,250,0,141.04,0
+Mahindra Bolero Neo,Diesel,1493,3,7,Manual,50,SUV,4.5,1038000,260,2250,100,3750
+Mahindra Bolero Neo,Diesel,1493,3,7,Manual,50,SUV,4.5,19600000,260,2250,100,3750
+Audi e-tron GT,Electric,0,0,5,Electric,0,Coupe,4.5,5800000,630,0,522.99,0
+Maruti Swift Dzire Tour,CNG,1197,4,5,Manual,55,Sedan,4.5,19600000,95,4000,70.4,6000
+Mercedes-Benz AMG A 35,Petrol,1991,4,5,Automatic,51,Sedan,4.5,1989000,400,4000,301.73,5800
+Mercedes-Benz GLC Coupe,Diesel,1950,4,5,Automatic,66,Coupe,5,3132000,500,2400,241.38,4200
+Toyota Glanza,Petrol,1197,4,5,Automatic,37,Hatchback,4.5,3342500,113,4400,88.5,6000
+Toyota Glanza,Petrol,1197,4,5,Automatic,37,Hatchback,4.5,5590000,113,4400,88.5,6000
+Porsche Cayenne Coupe,Petrol,3996,8,4,Automatic,0,SUV,3.5,18900000,850,4500,631.62,6000
+Porsche Cayenne Coupe,Petrol,3996,8,4,Automatic,0,SUV,3.5,394000,850,4500,631.62,6000
+Honda City Hybrid,Petrol,1498,4,5,Automatic,40,Sedan,4.5,8150000,127,5000,96.55,6400
+Compass Trailhawk,Diesel,1998,4,5,Automatic,60,SUV,4.5,5570000,350,2500,170,3750
+Jeep Meridian,Diesel,1956,4,7,Automatic,60,SUV,4.5,1845000,350,2500,167.67,3750
+Mercedes-Benz AMG A 45 S,Petrol,1991,4,5,Automatic,0,Hatchback,4.5,829000,500,5250,415.71,6750
+BMW 3 Series Gran Limousine,Petrol,1998,4,5,Automatic,59,Sedan,4.5,1041000,400,4400,254.79,5000
+MG Hector Plus,Diesel,1956,4,7,Manual,60,SUV,4.5,1845000,350,2500,167.67,3750
+Audi RS Q8,Petrol,3998,8,5,Automatic,85,SUV,3.5,21700000,800,4500,591.39,6000
+Maruti Alto 800 tour,Petrol,796,3,5,Manual,35,Hatchback,4.5,394000,69,3500,47.33,6000
